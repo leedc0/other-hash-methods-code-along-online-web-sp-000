@@ -11,5 +11,5 @@ groceries = {
 def get_the_values(groceries)
   #code your solution here!
   groceries.values
-  binding.pry
+  # binding.pry
 end
